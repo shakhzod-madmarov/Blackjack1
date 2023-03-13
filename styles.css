@@ -1,0 +1,27 @@
+body{
+    background-color: #539165;
+    text-align: center;
+}
+
+h1{
+    padding-top: 30px;
+    color: goldenrod;
+    font-size: 70px;
+}
+
+p{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+button{
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    
+}
